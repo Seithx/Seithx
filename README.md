@@ -26,7 +26,7 @@ I specialize in building production-ready systems that solve complex workflows. 
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | **Python**, TypeScript, JavaScript, ETL |
+| **Languages** | Python, TypeScript, JavaScript, ETL |
 | **AI & Data** | RAG Pipelines, Google Gemini API, OpenAI, ChromaDB, Pandas, FFmpeg |
 | **Frameworks** | Flask, React, Tailwind CSS, PyQt6, Google Ecosystem |
 | **DevOps** | Docker, GitHub Actions, MongoDB Atlas |
@@ -44,7 +44,7 @@ Here are a few complex systems I have engineered:
 *   Integrates **Google Gemini 1.5 Pro** and **OpenAI** to analyze manufacturing footage.
 *   Features a custom-built frame extraction engine using **FFmpeg** and **Pandas**.
 
-### 🔹 [Outlook RAG System](https://github.com/Seithx/Outlook-MailMiner))
+### 🔹 [Outlook RAG System](https://github.com/Seithx/Outlook-MailMiner)
 **Semantic Search for Legacy Archives**
 *   A Retrieval-Augmented Generation pipeline to index and search old Outlook PST/OST files.
 *   Uses **ChromaDB** for vector storage and **LLM agents** to answer questions based on years of email history.
