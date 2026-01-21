@@ -16,3 +16,10 @@ class Engineer:
 
 I specialize in building production-ready systems that solve complex workflows. My work ranges from manufacturing video analysis to Semantic Search engines for legacy email archives. I focus on clean architecture, type safety, and automated deployment pipelines.
 
+**🛠 Technical Stack
+**Domain	Technologies
+Languages	Python (Deep Expertise), TypeScript, JavaScript, SQL
+AI & Data	RAG Pipelines, Google Gemini API, OpenAI, ChromaDB, Pandas, FFmpeg
+Frameworks	Flask, React, Tailwind CSS, PyQt6
+DevOps	Docker, GitHub Actions, MongoDB Atlas, IIS Deployment
+Specialty	Hebrew/RTL Language Support, Hexagonal Architecture, Legacy Integration
