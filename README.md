@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # Hi there, I'm Asaf Lecht 👋
@@ -91,4 +90,3 @@ I'm always open to discussing AI architecture, automation challenges, or new col
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seithx&layout=compact&theme=tokyonight&hide_border=true&hide=html" width="48%" />
 </a>
 </p>
-```
