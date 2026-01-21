@@ -1,13 +1,13 @@
 ```markdown
-# Hi there 👋, I'm Seithx
+# Hi there 👋, I'm Asaf Lecht.
 
-### Full-Stack AI Engineer | Automation Architect | Builder
+### Full-Stack AI/Data Engineer (Hoping to be) | Automation |
 
 ```python
 class Engineer:
     def __init__(self):
         self.name = "Asaf Lecht"
-        self.role = "Full-Stack AI Engineer"
+        self.role = "Full-Stack AI/Data Engineer"
         self.languages = ["Python", "TypeScript", "SQL"]
         self.specialties = ["AI Agents", "Computer Vision", "RAG Pipelines"]
         self.location = "Israel"
@@ -18,7 +18,7 @@ class Engineer:
 
 
 
-I specialize in building production-ready systems that solve complex workflows. My work ranges from **manufacturing video analysis** to **Semantic Search engines** for legacy email archives. I focus on clean architecture, type safety, and automated deployment pipelines.
+I specialize in building production-ready systems that solve complex workflows. My work ranges from **manufacturing video analysis** to **Semantic Search engines** for legacy email archives (that's just because I like rag so much and it's usefullness in making sense in big data). I focus on clean architecture, type safety, and automated deployment pipelines.
 
 ---
 
@@ -26,11 +26,11 @@ I specialize in building production-ready systems that solve complex workflows. 
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | **Python** (Deep Expertise), TypeScript, JavaScript, SQL |
+| **Languages** | **Python**, TypeScript, JavaScript, ETL |
 | **AI & Data** | RAG Pipelines, Google Gemini API, OpenAI, ChromaDB, Pandas, FFmpeg |
-| **Frameworks** | Flask, React, Tailwind CSS, PyQt6 |
-| **DevOps** | Docker, GitHub Actions, MongoDB Atlas, IIS Deployment |
-| **Specialty** | Hebrew/RTL Language Support, Hexagonal Architecture, Legacy Integration |
+| **Frameworks** | Flask, React, Tailwind CSS, PyQt6, Google Ecosystem |
+| **DevOps** | Docker, GitHub Actions, MongoDB Atlas |
+| **Specialty** | Hebrew/RTL Language Support, Legacy Integration |
 
 ---
 
