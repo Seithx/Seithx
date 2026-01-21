@@ -13,3 +13,6 @@ class Engineer:
 
     def current_focus(self):
         return "Bridging legacy enterprise data with modern AI architectures."
+
+I specialize in building production-ready systems that solve complex workflows. My work ranges from manufacturing video analysis to Semantic Search engines for legacy email archives. I focus on clean architecture, type safety, and automated deployment pipelines.
+
