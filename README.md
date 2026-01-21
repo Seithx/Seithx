@@ -44,7 +44,7 @@ Here are a few complex systems I have engineered:
 *   Integrates **Google Gemini 1.5 Pro** and **OpenAI** to analyze manufacturing footage.
 *   Features a custom-built frame extraction engine using **FFmpeg** and **Pandas**.
 
-### 🔹 [Outlook RAG System]([Outlook-MailMiner](https://github.com/Seithx/Outlook-MailMiner))
+### 🔹 [Outlook RAG System](https://github.com/Seithx/Outlook-MailMiner))
 **Semantic Search for Legacy Archives**
 *   A Retrieval-Augmented Generation pipeline to index and search old Outlook PST/OST files.
 *   Uses **ChromaDB** for vector storage and **LLM agents** to answer questions based on years of email history.
