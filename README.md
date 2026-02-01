@@ -76,8 +76,4 @@ I specialize in building production-ready systems that solve complex workflows. 
 *   **The Tech:** PyQt6, Docker, Hebrew Calendar Algorithms.
 *   **The Solution:** A robust digital signage application handling complex RTL language support and location-based API triggers.
 
----
 
-## 📬 Let's Connect
-
-I'm always open to discussing AI architecture, automation challenges, or new collaborations.
