@@ -6,7 +6,7 @@
 
 <!-- Typing SVG: dynamic text effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+Production-Ready+AI;Bridging+Legacy+Data+with+Modern+Tech;Architecting+RAG+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Building+Production-Ready+AI;Bridging+Legacy+Data+with+Modern+Tech;Architecting+RAG+Pipelines" alt="Typing SVG" />
 </a>
 
 <br/>
