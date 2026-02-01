@@ -81,14 +81,3 @@ I specialize in building production-ready systems that solve complex workflows. 
 ## 📬 Let's Connect
 
 I'm always open to discussing AI architecture, automation challenges, or new collaborations.
-
-<p align="left">
-<a href="https://github.com/Seithx">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seithx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-</a>
-<a href="https://github.com/Seithx">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seithx&layout=compact&theme=tokyonight&hide_border=true&hide=html" width="48%" />
-</a>
-</p>
-
-Made by Asaf Lecht
