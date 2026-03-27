@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Asaf Lecht
+# Hi there, I'm Asaf Lecht | אסף לכט
 
 ### Full-Stack AI/Data Engineer | Automation Specialist
 
