@@ -98,6 +98,24 @@ I build production-ready systems that replace manual workflows with AI-powered a
 *   **The Tech:** JavaScript, Chrome Extensions API, CSS injection.
 *   **The Solution:** Fixes Hebrew RTL text direction across AI chat interfaces, social media, and forums. Published on the Chrome Web Store.
 
+### [Recorder CLI](https://github.com/Seithx/recorder-cli)
+> **Batch Audio Download with Speaker Diarization**
+
+*   **The Tech:** Node.js, commander.js, Chrome DevTools Protocol.
+*   **The Solution:** CLI tool for batch-downloading Google Recorder audio with speaker labels. Uses accessibility tree snapshots instead of CSS selectors for reliable web app interaction.
+
+### RAG Document Pipelines
+> **AI-Powered Source Material Cleanup**
+
+*   **The Tech:** Python, async processing, quality gates.
+*   **The Solution:** Prepares messy document collections (PDF, DOCX, HTML) for AI knowledge bases. LLM-powered cleanup with strict guardrails to prevent meaning changes. Hebrew language benchmarking across platforms.
+
+### Browser Automation API Wrapper
+> **REST API for Web Apps Without APIs**
+
+*   **The Tech:** Python, FastAPI, Playwright, headless Chromium.
+*   **The Solution:** Wraps web applications that lack public APIs with clean REST endpoints. Persistent browser session handles auth natively. 24h endurance tested with heartbeat monitoring.
+
 *Most repositories are private. See my [blog](https://seithx.github.io) for detailed write-ups on my projects and development process.*
 
 ---
