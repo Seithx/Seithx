@@ -86,7 +86,7 @@ I build production-ready systems that replace manual workflows with AI-powered a
 *   **The Tech:** Google Apps Script, Gemini AI (Flash + Pro), HTML/JS dashboard.
 *   **The Solution:** Automated invoice processing pipeline -- PDFs arrive via email or cloud storage, Gemini extracts structured data (supplier, line items, amounts), and exports in the exact format the ERP system expects. Smart model fallback for complex invoices, Hebrew web dashboard for review, checkpoint/resume for long batches.
 
-### [Shipping Cost Calculator](https://github.com/Seithx/ups-shipping-calculator)
+### Shipping Cost Calculator
 > **Desktop Quoting Tool for Logistics**
 
 *   **The Tech:** TypeScript (React), Electron, Vitest (74 tests), PDF generation.
