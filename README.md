@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/asaflecht">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:infoy@posteo.net">
+<a href="mailto:asaflecht@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/Seithx">
@@ -65,38 +65,38 @@ I build production-ready systems that replace manual workflows with AI-powered a
 ### FloorSight
 > **AI-Powered Video Analysis for Manufacturing**
 
-*   **The Tech:** Python (Flask + SocketIO), TypeScript (React), Google Gemini, FFmpeg, Docker.
-*   **The Solution:** A full-stack application that uses LLMs to analyze manufacturing footage -- custom frame extraction engine, video fingerprinting, and a port/adapter architecture for swappable analysis services. Currently deployed via Coolify PaaS with active V2 architecture development.
-
-### Outlook RAG System
-> **Semantic Search for Legacy Archives**
-
-*   **The Tech:** Python, ChromaDB, OpenAI, LangChain.
-*   **The Solution:** A RAG pipeline that indexes and searches old PST/OST Outlook files, letting users "chat" with years of email history. Built to solve the pain of searching through decades of enterprise email archives.
+*   **The Tech:** Python (Flask + SocketIO), TypeScript (React), FFmpeg, Docker.
+*   **The Solution:** Full-stack app that analyzes manufacturing footage using LLMs. Custom frame extraction, video fingerprinting, and a modular architecture for swappable analysis services.
 
 ### Enhanced Synagogue Display
-> **Digital Signage & Community System**
+> **Digital Signage System**
 
-*   **The Tech:** PyQt6 (desktop), Flask (web), Inno Setup installer, Hebrew Calendar Algorithms.
-*   **The Solution:** A dual-platform digital signage application for a synagogue -- halachic prayer times (zmanim), Hebrew calendar integration, memorial/yahrzeit slideshows, Three Weeks animation, and RTL language support. Ships as a Windows installer with Task Scheduler autostart. Full test suite and multiple deployment targets.
+*   **The Tech:** PyQt6 (desktop), Flask (web), Hebrew Calendar APIs.
+*   **The Solution:** Dual-platform (desktop + web) display for a synagogue -- prayer times, Hebrew calendar, memorial slideshows, and RTL support. Ships as a Windows installer.
 
 ### AI Invoice Processing
-> **Serverless Document Extraction for ERP Integration**
+> **Automated Document Extraction**
 
-*   **The Tech:** Google Apps Script, Gemini AI (Flash + Pro), HTML/JS dashboard.
-*   **The Solution:** Automated invoice processing pipeline -- PDFs arrive via email or cloud storage, Gemini extracts structured data (supplier, line items, amounts), and exports in the exact format the ERP system expects. Smart model fallback for complex invoices, Hebrew web dashboard for review, checkpoint/resume for long batches.
+*   **The Tech:** Google Apps Script, AI extraction, HTML/JS dashboard.
+*   **The Solution:** PDFs arrive via email or cloud storage, AI extracts structured data, and exports in the ERP's import format. Hebrew web dashboard for review and approval.
 
-### Shipping Cost Calculator
-> **Desktop Quoting Tool for Logistics**
+### Hebrew News Extractor
+> **Article Extraction Service for 17 Israeli News Sites**
 
-*   **The Tech:** TypeScript (React), Electron, Vitest (74 tests), PDF generation.
-*   **The Solution:** A desktop app for a logistics company's sales team -- instant shipping cost quotes with dimensional weight, zone-based rates, pallet surcharges, and smart cost-reduction tips. Packaged as a Windows EXE with form persistence.
+*   **The Tech:** Python, Docker, Google Cloud Run.
+*   **The Solution:** A web service that extracts clean article text from Israeli news outlets. Per-site extraction strategies with fallback chains, deployed as a lightweight API.
+
+### Messaging Monitor
+> **Personal Information Hub with AI Digests**
+
+*   **The Tech:** Python, Docker, IMAP, push notifications.
+*   **The Solution:** Monitors dozens of messaging groups and email newsletters, generates a daily AI-powered digest summarizing everything important. Runs 24/7 with automated crash recovery.
 
 ### [Smart Hebrew RTL](https://chromewebstore.google.com/detail/mceaejlgpljlmfmejpgfjmpolkehippf)
 > **Chrome Extension -- 80+ Active Users**
 
 *   **The Tech:** JavaScript, Chrome Extensions API, CSS injection.
-*   **The Solution:** A Chrome extension that intelligently applies RTL (right-to-left) formatting to Hebrew text across websites -- AI chat interfaces, social media, forums. Detects Hebrew content and fixes text direction without breaking English or mixed-language layouts. Published on the Chrome Web Store.
+*   **The Solution:** Fixes Hebrew RTL text direction across AI chat interfaces, social media, and forums. Published on the Chrome Web Store.
 
 *Most repositories are private. See my [blog](https://seithx.github.io) for detailed write-ups on my projects and development process.*
 
