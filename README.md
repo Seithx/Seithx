@@ -34,7 +34,7 @@
 ```python
 class Engineer:
     def __init__(self):
-        self.name = "Asaf Lecht"
+        self.name = "Asaf Lecht"  # אסף לכט
         self.role = "Full-Stack AI/Data Engineer"
         self.location = "Israel"
         self.stack = ["Python", "TypeScript", "Google Cloud",
@@ -44,7 +44,7 @@ class Engineer:
         return "Bridging legacy enterprise data with modern AI architectures."
 ```
 
-I build production-ready systems that replace manual workflows with AI-powered automation. My work spans manufacturing video analysis, document processing pipelines, RAG knowledge bases, and browser automation. I write about the process -- struggles, breakthroughs, and lessons -- on [my blog](https://seithx.github.io).
+I build production-ready systems that replace manual workflows with AI-powered automation. My work spans manufacturing video analysis, document processing pipelines, RAG knowledge bases, and browser automation. I write about the process -- struggles, breakthroughs, and lessons -- on [my blog](https://seithx.github.io). I also built [Smart Hebrew RTL](https://chromewebstore.google.com/detail/mceaejlgpljlmfmejpgfjmpolkehippf), a Chrome extension with 80+ users for fixing Hebrew typing in AI chats.
 
 ---
 
