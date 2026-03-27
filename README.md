@@ -80,7 +80,19 @@ I build production-ready systems that replace manual workflows with AI-powered a
 *   **The Tech:** PyQt6 (desktop), Flask (web), Inno Setup installer, Hebrew Calendar Algorithms.
 *   **The Solution:** A dual-platform digital signage application for a synagogue -- halachic prayer times (zmanim), Hebrew calendar integration, memorial/yahrzeit slideshows, Three Weeks animation, and RTL language support. Ships as a Windows installer with Task Scheduler autostart. Full test suite and multiple deployment targets.
 
-*These repositories are private. See my [blog](https://seithx.github.io) for detailed write-ups on my projects and development process.*
+### AI Invoice Processing
+> **Serverless Document Extraction for ERP Integration**
+
+*   **The Tech:** Google Apps Script, Gemini AI (Flash + Pro), HTML/JS dashboard.
+*   **The Solution:** Automated invoice processing pipeline -- PDFs arrive via email or cloud storage, Gemini extracts structured data (supplier, line items, amounts), and exports in the exact format the ERP system expects. Smart model fallback for complex invoices, Hebrew web dashboard for review, checkpoint/resume for long batches.
+
+### [Shipping Cost Calculator](https://github.com/Seithx/ups-shipping-calculator)
+> **Desktop Quoting Tool for Logistics**
+
+*   **The Tech:** TypeScript (React), Electron, Vitest (74 tests), PDF generation.
+*   **The Solution:** A desktop app for a logistics company's sales team -- instant shipping cost quotes with dimensional weight, zone-based rates, pallet surcharges, and smart cost-reduction tips. Packaged as a Windows EXE with form persistence.
+
+*Most repositories are private. See my [blog](https://seithx.github.io) for detailed write-ups on my projects and development process.*
 
 ---
 
