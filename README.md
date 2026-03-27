@@ -92,6 +92,12 @@ I build production-ready systems that replace manual workflows with AI-powered a
 *   **The Tech:** TypeScript (React), Electron, Vitest (74 tests), PDF generation.
 *   **The Solution:** A desktop app for a logistics company's sales team -- instant shipping cost quotes with dimensional weight, zone-based rates, pallet surcharges, and smart cost-reduction tips. Packaged as a Windows EXE with form persistence.
 
+### [Smart Hebrew RTL](https://chromewebstore.google.com/detail/mceaejlgpljlmfmejpgfjmpolkehippf)
+> **Chrome Extension -- 80+ Active Users**
+
+*   **The Tech:** JavaScript, Chrome Extensions API, CSS injection.
+*   **The Solution:** A Chrome extension that intelligently applies RTL (right-to-left) formatting to Hebrew text across websites -- AI chat interfaces, social media, forums. Detects Hebrew content and fixes text direction without breaking English or mixed-language layouts. Published on the Chrome Web Store.
+
 *Most repositories are private. See my [blog](https://seithx.github.io) for detailed write-ups on my projects and development process.*
 
 ---
