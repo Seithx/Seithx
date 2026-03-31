@@ -104,11 +104,11 @@ I build production-ready systems that replace manual workflows with AI-powered a
 *   **The Tech:** Node.js, commander.js, Chrome DevTools Protocol.
 *   **The Solution:** CLI tool for batch-downloading Google Recorder audio with speaker labels. Uses accessibility tree snapshots instead of CSS selectors for reliable web app interaction.
 
-### RAG Document Pipelines
-> **AI-Powered Source Material Cleanup**
+### [WordPress to RAG Pipeline](https://github.com/Seithx/wordpress-to-rag-pipeline)
+> **Production ETL: 20K+ WordPress Pages to LLM-Ready Markdown**
 
-*   **The Tech:** Python, async processing, quality gates.
-*   **The Solution:** Prepares messy document collections (PDF, DOCX, HTML) for AI knowledge bases. LLM-powered cleanup with strict guardrails to prevent meaning changes. Hebrew language benchmarking across platforms.
+*   **The Tech:** Python, BeautifulSoup, FastAPI, multiprocessing, WP REST API, Gemini API.
+*   **The Solution:** End-to-end pipeline that extracts WordPress content, strips 88% boilerplate, deduplicates via content hashing (caught 1,900+ dupes), preserves threaded comments, and bundles 18.5M words into RAG-ready sources. Incremental updates via REST API polling. Open source.
 
 ### Browser Automation API Wrapper
 > **REST API for Web Apps Without APIs**
