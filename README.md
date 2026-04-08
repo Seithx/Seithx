@@ -116,7 +116,6 @@ I build production-ready systems that replace manual workflows with AI-powered a
 *   **The Tech:** Python, FastAPI, Playwright, headless Chromium.
 *   **The Solution:** Wraps web applications that lack public APIs with clean REST endpoints. Persistent browser session handles auth natively. 24h endurance tested with heartbeat monitoring.
 
-*Most repositories are private. See my [blog](https://seithx.github.io) for detailed write-ups on my projects and development process.*
 
 ---
 
